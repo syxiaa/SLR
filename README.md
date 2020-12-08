@@ -1,4 +1,4 @@
-# SNLR
+# SLR
 
 * SLR_RS algorithms is described in detail in .
 
