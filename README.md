@@ -1,16 +1,16 @@
 # SNLR
 
-* SNLR_RS algorithms is described in detail in .
+* SLR_RS algorithms is described in detail in .
 
-* the implementation of the SNLR_RS algorithm of the Python version can be found in the "SNLR" file.
+* the implementation of the SLR_RS algorithm of the Python version can be found in the "SLR" file.
 
 * All data used in the paper is in the compressed file "data.zip".
 
 ### Python version (python 版本):
 
-* the implementations of the C_SNLR and FAR_SNLR algorithm are "C_SNLR.py" and "FAR_SNLR.py".
+* the implementations of the C_SLR and FAR_SLR algorithm are "C_SLR.py" and "FAR_SLR.py".
 
-* the param "radius" is used to set neighborhood radius size in FAR_SNLR.
+* the param "radius" is used to set neighborhood radius size in FAR_SLR.
 
 # Requirements (环境要求)
 
@@ -21,7 +21,7 @@
 # Using (用法)
 
 ### python version (python 版本):
-####C_SNLR algorithm:
+####C_SLR algorithm:
 
 ##### Step 1: call "fit" function (调用"fit"函数)
 
@@ -46,7 +46,7 @@
 ###### Output (输出说明): results: attribute reduction results
 
 
-####FAR_SNLR algorithm:
+####FAR_SLR algorithm:
 
 ##### Step 1: call "fit" function (调用"fit"函数)
 
